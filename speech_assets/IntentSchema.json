@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "intent": "WhereIntent"
+    },
+    {
+      "intent": "WhenIntent"
+    },
+    {
+      "intent": "LastNameIntent"
+
+    },
+    {
+      "intent": "HowMeetIntent"
+    },
+    {
+      "intent": "KidsIntent"
+
+    },
+    {
+      "intent": "InviteIntent"
+
+    },
+
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "FartIntent"
+    }
+  ]
+}

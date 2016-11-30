@@ -1,0 +1,17 @@
+WhereIntent where will the wedding be
+WhereIntent where will you get married
+WhereIntent where will the ceremony be
+WhereIntent where
+WhereIntent where will the event be
+
+WhenIntent when is the wedding
+WhenIntent when will you get married
+
+LastNameIntent is gabby going to keep her last name
+
+KidsIntent when are you going to have kids
+KidsIntent are you going to have kids
+
+InviteIntent who is invited
+InviteIntent who are you going to invite
+
