@@ -15,3 +15,11 @@ KidsIntent are you going to have kids
 InviteIntent who is invited
 InviteIntent who are you going to invite
 
+JustinBieberIntent justin bieber
+WhatDoYouMeanIntent when you nod your head yes but you wanna say no 
+WhatDoYouMeanAgainIntent when you you dont want me to move but you tell me to go
+WhatDoYouMeanFinalIntent said you're running out of time
+
+AMAZON.StopIntent quit
+AMAZON.StopIntent thanks
+AMAZON.StopIntent bye

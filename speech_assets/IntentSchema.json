@@ -21,12 +21,33 @@
       "intent": "InviteIntent"
 
     },
-
     {
-      "intent": "AMAZON.HelpIntent"
+      "intent": "WhatIsLoveIntent"
+
     },
     {
-      "intent": "FartIntent"
+      "intent": "WhatDoYouMeanIntent"
+
+    },
+    {
+      "intent": "WhatDoYouMeanAgainIntent"
+
+    },
+    {
+      "intent": "WhatDoYouMeanFinalIntent"
+
+    },
+    {
+      "intent": "JustinBieberIntent"
+
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+
     }
   ]
 }
